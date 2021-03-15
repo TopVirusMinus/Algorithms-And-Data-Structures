@@ -1,2 +1,2 @@
 # Algorithms-And-Data-Structures
-A students notes while studying algorithms and data structures 
+A student's notes while studying algorithms and data structures 
